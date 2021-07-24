@@ -1,2 +1,5 @@
 # Suicide Sort
- Python sorting algorithm
+ Terrible python sorting algorithm
+ 
+# Usage
+ None, literally useless. Why would you use it?
